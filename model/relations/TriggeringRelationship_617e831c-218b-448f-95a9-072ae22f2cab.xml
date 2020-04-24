@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IES to FAC - Direct API or DB - this part not via LCCC"
+    id="617e831c-218b-448f-95a9-072ae22f2cab">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_d96f3fe7-fd0b-4df4-9ef9-6e00030c3138.xml#d96f3fe7-fd0b-4df4-9ef9-6e00030c3138"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7fb58ff3-5e7f-4488-ab84-829c0aad057c.xml#7fb58ff3-5e7f-4488-ab84-829c0aad057c"/>
+</archimate:TriggeringRelationship>
